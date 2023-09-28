@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/vfarcic/backstage-demo
+    repoURL: https://github.com/johnyzed/backstage-demo
     targetRevision: HEAD
     path: infra
   destination:
