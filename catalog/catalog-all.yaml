@@ -4,4 +4,5 @@ metadata:
   name: example-components
   description: A collection of all Backstage example components
 spec:
-  targets: []
+  targets:
+    - ./users-app-component.yaml
